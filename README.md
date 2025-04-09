@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Keons-21 😁
+## Bem-vindo(a) ao perfil do Keons-21 🤓
 
  <div>
    <a href="https://github.com/Keons-21">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keons-21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keons-21&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keons-21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keons-21&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
