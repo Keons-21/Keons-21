@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Keons-21 🤓
+## Bem-vindo(a) ao perfil do Rick! 🤓
 
  <div>
    <a href="https://github.com/Keons-21">
