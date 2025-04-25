@@ -19,6 +19,6 @@
 <div>
  <a href="https://discord.com/users/538782659095298057" target="_blank"><img src="https://img.shields.io/badge/-Discord-4263D8?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
  <a href="https://www.linkedin.com/in/henrique-tavares-b52241359" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:henriquetps15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EF231F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href ="https://github.com/Keons-21"><img src="https://img.shields.io/badge/-Github-060210?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href = "mailto:henriquetps15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EF231F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href ="https://github.com/Keons-21" target="_blank"><img src="https://img.shields.io/badge/-Github-060210?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
